@@ -1,7 +1,7 @@
-/Users/andrey/eclipse-workspace/SpringMessageWebSocket/src/main/java/com/company/config/WebSocketConfig.java
-/Users/andrey/eclipse-workspace/SpringMessageWebSocket/src/main/java/com/company/controller/WebSocketController.java
-/Users/andrey/eclipse-workspace/SpringMessageWebSocket/src/main/java/com/company/model/ChatMessage.java
-/Users/andrey/eclipse-workspace/SpringMessageWebSocket/src/main/java/com/company/listener/WebSocketEventListener.java
-/Users/andrey/eclipse-workspace/SpringMessageWebSocket/src/main/java/com/company/SpringMessageWebSocketApplication.java
-/Users/andrey/eclipse-workspace/SpringMessageWebSocket/src/main/java/com/company/controller/MainController.java
-/Users/andrey/eclipse-workspace/SpringMessageWebSocket/src/main/java/com/company/interceptor/HttpHandshakeInterceptor.java
+/Users/andrey/Desktop/SpringMessageWebSocket-master/src/main/java/com/company/controller/WebSocketController.java
+/Users/andrey/Desktop/SpringMessageWebSocket-master/src/main/java/com/company/model/ChatMessage.java
+/Users/andrey/Desktop/SpringMessageWebSocket-master/src/main/java/com/company/config/WebSocketConfig.java
+/Users/andrey/Desktop/SpringMessageWebSocket-master/src/main/java/com/company/interceptor/HttpHandshakeInterceptor.java
+/Users/andrey/Desktop/SpringMessageWebSocket-master/src/main/java/com/company/listener/WebSocketEventListener.java
+/Users/andrey/Desktop/SpringMessageWebSocket-master/src/main/java/com/company/controller/MainController.java
+/Users/andrey/Desktop/SpringMessageWebSocket-master/src/main/java/com/company/SpringMessageWebSocketApplication.java
